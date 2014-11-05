@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /css
+Disallow: /data
+Disallow: /js
+Disallow: /include
+Disallow: /test
+Disallow: /plesk-stat

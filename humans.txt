@@ -1,0 +1,16 @@
+/* TEAM */
+	Coder: Christof Bauer
+	Site: www.christof-bauer.de
+	Location: Hamburg, Germany
+       
+/* THANKS */
+	html5Boilerplate: http://html5boilerplate.com
+	Modernizr: http://www.modernizr.com/
+	jQuery: http://jquery.com/
+                       
+/* SITE */
+	Last update: 2011/07
+	Standards: HTML5, CSS3, ECMA
+	Software: Coda, Textmate, Firebug
+	Doctype: HTML5
+	
